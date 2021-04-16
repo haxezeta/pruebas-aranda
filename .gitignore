@@ -1,0 +1,7 @@
+#Ignore GRaddle project
+
+.gradle/
+
+#Ignore Gradle build output directory
+
+build/
